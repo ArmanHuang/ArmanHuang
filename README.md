@@ -10,9 +10,9 @@
 ---
 
 ### Tools & Technologies
-- **Languages**: PHP, JavaScript.  
-- **Frameworks**: Laravel, .NET, Next.js.  
-- **Tools**: Git, Docker, Postman.  
+- **Languages**: PHP, JavaScript,Python
+- **Frameworks**: Laravel, typescript, Next.js.  
+- **Tools**: Git,Postman.  
 - **Databases**: MySQL, PostgreSQL.
 
 ---
